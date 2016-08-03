@@ -1,0 +1,14 @@
+layout_spectrum: 0.4928102458361536
+typography_spectrum: 0.28896168782375753
+color:
+  brandStrength: 0.006647932343184948
+  lightness: 0.7549477487336844
+  saturation: 0.639402997912839
+  rhythmicContrast: 0.39204434491693974
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: homesharing
