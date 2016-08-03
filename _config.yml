@@ -1,4 +1,3 @@
-layout_spectrum: 0.4928102458361536
 typography_spectrum: 0.28896168782375753
 color:
   brandStrength: 0.006647932343184948
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.4928102458361536
 name: homesharing
 title: homesharing
+description: frankfurt am amin
