@@ -1,16 +1,16 @@
-typography_spectrum: 0.28896168782375753
+typography_spectrum: 0.4169059325940907
 color:
-  brandStrength: 0.006647932343184948
-  lightness: 0.7549477487336844
-  saturation: 0.639402997912839
-  rhythmicContrast: 0.39204434491693974
+  brandStrength: 0.7739711694885045
+  lightness: 0.5467657092958689
+  saturation: 0.16825851146131754
+  rhythmicContrast: 0.579080996569246
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.4928102458361536
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+layout_spectrum: 0.20180813549086452
 name: homesharing
 title: homesharing
 description: frankfurt am main
